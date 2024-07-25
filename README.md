@@ -5,7 +5,16 @@ So, grab a coffee or a beer, sit back and let's learn together
 
 Topics that will be covered here:
 <table>
-    <th>Cloud Security</th>
-    <th>Level</th>
-    <th>Language</th>
+    <tr>
+        <th>Topic</th>
+        <th>Decription</th>
+        <th>Level</th>
+        <th>Language</th>
+    </tr>
+    <tr>
+        <td>Cloud Security</td>
+        <td>Introduction of Cloud Security</td>
+        <td>100 - 300</td>
+        <td>English</td>
+    </tr>
 </table>
